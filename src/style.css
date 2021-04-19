@@ -1,0 +1,72 @@
+header {
+  font-family: "Syne Mono", monospace;
+}
+
+.container {
+  background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+  max-width: 800px;
+  margin: 60px auto;
+  padding: 35px;
+  padding-bottom: 50px;
+  border: none;
+  border-radius: 20px;
+}
+
+.btn-link {
+  color: black;
+}
+
+.time {
+  position: relative;
+  top: 0;
+  right: 0px;
+  color: green;
+}
+h1 {
+  text-align: center;
+  font-family: "Quicksand";
+  letter-spacing: 1px;
+}
+
+form {
+  text-align: left;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 32px;
+  letter-spacing: 5px;
+}
+
+header {
+  text-align: center;
+  letter-spacing: 2px;
+}
+
+.weather-now {
+  border: 2px solid black;
+  border-radius: 10px;
+  max-width: 400px;
+  margin: auto;
+  margin-bottom: 30px;
+  margin-top: 20px;
+  padding: 4px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.weekday {
+  text-align: center;
+}
+
+.container {
+  border: 1px solid rgb(219, 194, 194);
+}
+.fahrenheit {
+  text-decoration: none;
+  color: black;
+}
+.celcius {
+  text-decoration: none;
+  color: black;
+}
